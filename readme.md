@@ -10,6 +10,7 @@
 ### 伺服器啟動
 
 伺服器端程序啟動，並於控制台顯示狀態，包含用戶登入或離線等
+
 ![Server1](img/Server1.png)
 ![Server2](img/Server2.png)
 
